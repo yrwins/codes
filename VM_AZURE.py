@@ -7,6 +7,7 @@ ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEAL
 Microsoft Create VM on Azure Python 3 
 Yrwins Acosta
 yrwins@gmail.com
+https://github.com/yrwins/codes
 May 2020, version 1.2
 """
 
